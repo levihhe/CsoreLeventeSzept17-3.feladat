@@ -1,0 +1,62 @@
+#tarolo{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    background-color: purple;
+}
+#elem1{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 70px;
+    list-style: none;
+    
+}
+.elem{
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    margin-left: 20px;
+    list-style: none;
+    
+}
+#tarolo2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+#sarga{
+    flex: 1;
+    height: 600px;
+    background-color: green;
+    margin-bottom: 10pt;
+    margin-left: 50pt;
+    margin-top: 10pt;
+    margin-right: 10pt;
+}
+#zold{
+    flex: 2;
+    height: 600px;
+    background-color: yellow;
+    margin-top: 10pt;
+    margin-right: 50px;
+}
+#tarolo3{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+#szurke{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    margin-left: 40pt;
+    margin-right: 50px;
+    margin-top: 95pt;
+}
