@@ -1,4 +1,4 @@
-#tarolo {
+#tarolo1 {
     width: 100%;
     height: 60px; 
     background-color: purple;   
@@ -9,7 +9,7 @@
     
 }
 
-.elem {
+.elem1 {
     width: 150px;
     height: 35px;
     background-color: aqua;
@@ -24,12 +24,12 @@
     flex-direction: row;
 }
 
-#sarga {
+#sarga1 {
     background-color: yellow;
     flex: 2;
 }
 
-#zold {
+#zold1 {
     background-color: green;
     flex: 1;
 }

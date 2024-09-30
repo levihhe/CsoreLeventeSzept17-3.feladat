@@ -1,4 +1,4 @@
-#tarolo{
+#tarolo3{
     width: 100%;
     height: 75px;
     display: flex;
@@ -7,7 +7,7 @@
     align-items: center;
     background-color: purple;
 }
-#elem1{
+#elem2{
     width: 100px;
     height: 40px;
     background-color: aqua;
@@ -15,7 +15,7 @@
     list-style: none;
     
 }
-.elem{
+.elem3{
     width: 100px;
     height: 40px;
     background-color: aqua;
@@ -23,13 +23,13 @@
     list-style: none;
     
 }
-#tarolo2{
+#tarolo4{
     width: 100%;
     height: 500px;
     display: flex;
     flex-direction: row;
 }
-#sarga{
+#sarga2{
     flex: 1;
     height: 600px;
     background-color: green;
@@ -38,14 +38,14 @@
     margin-top: 10pt;
     margin-right: 10pt;
 }
-#zold{
+#zold2{
     flex: 2;
     height: 600px;
     background-color: yellow;
     margin-top: 10pt;
     margin-right: 50px;
 }
-#tarolo3{
+#tarolo5{
     width: 100%;
     height: 1000px;
     display: flex;
